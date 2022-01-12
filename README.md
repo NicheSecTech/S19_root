@@ -7,9 +7,9 @@ Copy the archive file over to the device, login, then run the following commands
 
 user@kali $: cat s19_pro_root.tar|ssh miner@192.168.2.95 "cat >/tmp/s19_pro_root.tar"
 
-user@kali $: ssh miner@192.168.2.95
-
 Password: miner
+
+user@kali $: ssh miner@192.168.2.95
 
 miner@S19PRO-01$ ~ cd /tmp/
 
